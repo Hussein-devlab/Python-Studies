@@ -12,7 +12,7 @@ Tein kaikki moduuli 2 tehävät jotka tuli Omaan. Tehtävät oli todella mielen 
 
 ## Moduuli 3
 
-Ei ole aloitettu
+Tein kaikki moduuli 3 tehtävät jotka tuli omaan. Tehtävissä harjoiteltiin valintarakenteita eli if, elif ja else lausekkeita. Tehtävät oli osi mielenkiintoisia ja hyviä. Opin myös tässä moduulissa sisennyksen merkityksen ja sen että ehtojen jäejestyksellä on väliä. käytin myös upper() ja lower() jotta syöte toimiii sioilla ja pienillä kirjaimilla. 
 
 ## Moduuli 4
 
