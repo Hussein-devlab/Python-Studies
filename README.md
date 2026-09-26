@@ -16,4 +16,4 @@ Tein kaikki moduuli 3 tehtävät jotka tuli omaan. Tehtävissä harjoiteltiin va
 
 ## Moduuli 4
 
-Ei ole aloiitettu 
+Tässä moduulissa harjoittelin while-silmukan käyttöä Pythonissa. Opin toistamaan koodia niin kauan kuin ehto on voimassa, lopettamaan silmukan käyttäjän syötteen perusteella sekä pitämään kirjaa arvoista silmukan aikana. Lisäksi harjoittelin satunnaislukujen käyttöä random-kirjastolla.
