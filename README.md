@@ -21,3 +21,6 @@ Tässä moduulissa harjoittelin while-silmukan käyttöä Pythonissa. Opin toist
 ## Moduuli 5 
 
 Tässä moduulissa harjoittelin for-silmukan käyttöä, listojen käsittelyä (append, sort(reverse=True), viipalointi) ja alkulukujen tarkistamista jakojäännöksellä.
+
+## Kertaustehtavat 19.10 
+Tein Python-harjoituksia, joissa kertasin if-elif-else-rakenteita, while- ja for-silmukoita sekä listoja. Opin, että ehtojen järjestyksellä on väliä, miten silmukka lopetetaan käyttäjän syötteellä ja miten listoja käsitellään `append()`-, `sorted()`- ja `len()`-funktioilla.
