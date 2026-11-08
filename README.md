@@ -24,3 +24,6 @@ Tässä moduulissa harjoittelin for-silmukan käyttöä, listojen käsittelyä (
 
 ## Kertaustehtavat 19.10 
 Tein Python-harjoituksia, joissa kertasin if-elif-else-rakenteita, while- ja for-silmukoita sekä listoja. Opin, että ehtojen järjestyksellä on väliä, miten silmukka lopetetaan käyttäjän syötteellä ja miten listoja käsitellään `append()`-, `sorted()`- ja `len()`-funktioilla.
+
+## Moduuli 6
+Opin tekemään funktioita `def`-sanalla, antamaan niille parametreja ja palauttamaan tuloksen `return`-komennolla.
