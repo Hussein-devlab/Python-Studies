@@ -27,3 +27,6 @@ Tein Python-harjoituksia, joissa kertasin if-elif-else-rakenteita, while- ja for
 
 ## Moduuli 6
 Opin tekemään funktioita `def`-sanalla, antamaan niille parametreja ja palauttamaan tuloksen `return`-komennolla.
+
+## Moduuli 7
+Opin tallentamaan tietoa monikkoon `()`, joukkoon `set()` ja sanakirjaan `{}` sekä hakemaan sanakirjasta arvon avaimella `get()`-metodilla.
